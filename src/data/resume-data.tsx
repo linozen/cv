@@ -53,7 +53,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: "current",
       description:
-        "Modernized the FSFE's fully self-owned, free-software infrastructure stack. Implemented new features to internal donation and member management tools. Won the EU Datathon 2022 (25.000€) with the TEDective project. Worked on the REUSE 1.0.0 release. ",
+        "Responsible for the internal IT infrastructure and the technical aspects of conducting psychological experiments (e.g. eye tracking)",
     },
     {
       company: "Free Software Foundation Europe",
