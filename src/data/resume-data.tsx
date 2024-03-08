@@ -53,7 +53,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: "current",
       description:
-        "Responsible for the internal IT infrastructure and the technical aspects of conducting psychological experiments (e.g. eye tracking)",
+        "Responsible for the internal IT infrastructure and the technical aspects of conducting psychological experiments (e.g. eye tracking).",
     },
     {
       company: "Free Software Foundation Europe",
