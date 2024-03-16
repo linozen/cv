@@ -46,7 +46,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Otto Selz Institute",
-      link: "https://fsfe.org",
+      link: "https://www.uni-mannheim.de/en/osi/",
       badges: ["On-site", "10h/week"],
       title: "Technical Consultant",
       logo: ParabolLogo,
@@ -65,6 +65,39 @@ export const RESUME_DATA = {
       end: "2023",
       description:
         "Modernized the FSFE's fully self-owned, free-software infrastructure stack. Implemented new features to internal donation and member management tools. Won the EU Datathon 2022 (25.000€) with the TEDective project. Worked on the REUSE 1.0.0 release. ",
+    },
+    {
+      company: "Stiftung Neue Verantwortung (now Interface)",
+      link: "https://www.stiftung-nv.de/",
+      badges: ["On-Site", "10h/week"],
+      title: "Research Assistant",
+      logo: ParabolLogo,
+      start: "2021",
+      end: "2022",
+      description:
+        "Supported the GUARDINT project by conducting data analysis and developing web-based visualisations.",
+    },
+    {
+      company: "Federal Foreign Office",
+      link: "https://www.stiftung-nv.de/",
+      badges: ["On-Site", "Full-time"],
+      title: "Internship",
+      logo: ParabolLogo,
+      start: "Jan 2020",
+      end: "Apr 2020",
+      description:
+        "Analysed countries' positions on allowing foreign companies to provide 5G infrastructure using both confidential and open sources.",
+    },
+    {
+      company: "Free University of Berlin",
+      link: "https://blogs.fu-berlin.de/tatas/team/",
+      badges: ["On-Site", "10h/week"],
+      title: "Research Assistant to Prof. Dr. Lora Anne Viola Ph.D.",
+      logo: ParabolLogo,
+      start: "Aug 2019",
+      end: "Dec 2019",
+      description:
+        "Presented a paper at and supported the organisation of the project’s section at the 2019 ECPR Conference and participated in and contributed to the project’s workshop in Krakow hosting some of the leading scholars in the field of surveillance studies.",
     },
   ],
   // skills: [
@@ -96,7 +129,7 @@ export const RESUME_DATA = {
         "Graph Analytics",
       ],
       description:
-        "Tool to make European public procurement data more accessible and transparent",
+        "Tool to make European public procurement data more accessible and transparent. Won the 2022 EU Datathon.",
       link: {
         label: "tedective.org",
         href: "https://tedective.org/",

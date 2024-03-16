@@ -14,6 +14,12 @@ module.exports = {
         destination: "https://exocortex.sehn.dev/concepts/:path*",
         permanent: true,
       },
+      // Redirect all request to /tag/** to Exocortex
+      {
+        source: "/tag/:path*",
+        destination: "https://exocortex.sehn.dev/tags/:path*",
+        permanent: true,
+      },
     ];
   },
 };
