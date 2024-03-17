@@ -79,7 +79,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Federal Foreign Office",
-      link: "https://www.stiftung-nv.de/",
+      link: "https://www.auswaertiges-amt.de/en/",
       badges: ["On-Site", "Full-time"],
       title: "Internship",
       logo: ParabolLogo,
@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     {
       company: "Free University of Berlin",
       link: "https://blogs.fu-berlin.de/tatas/team/",
-      badges: ["On-Site", "10h/week"],
+      badges: ["On-Site", "12h/week"],
       title: "Research Assistant to Prof. Dr. Lora Anne Viola Ph.D.",
       logo: ParabolLogo,
       start: "Aug 2019",
