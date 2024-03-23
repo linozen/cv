@@ -20,6 +20,12 @@ module.exports = {
         destination: "https://exocortex.sehn.dev/tags/:path*",
         permanent: true,
       },
+      // Redirect sitemap.xml to Exocortex
+      {
+        source: "/sitemap.xml",
+        destination: "https://exocortex.sehn.dev/sitemap.xml",
+        permanent: true,
+      },
     ];
   },
 };
