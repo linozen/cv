@@ -7,13 +7,12 @@ export const RESUME_DATA = {
   location: "Mannheim, Germany, CET",
   locationLink: "https://www.google.com/maps/place/Mannheim",
   about:
-    "Full-stack software engineer and system administrator available for freelance work. Currently learning to become a psychoterapist.",
+    "Generalist geek with an evolving focus on psychotherapy. My academic journey includes a master's degree in international relations and a professional background in open-source advocacy, system administration and software engineering. I'm currently training to become a psychotherapist, aiming to integrate this new dimension into my work. Available for freelance projects that benefit from a broad technical expertise and a deep understanding of human and international dynamics.",
   summary:
-    "I'm a generalist with a background in political science, economics, and, most recently, psychology. I'm fascinated by the way technology shapes human experience. When I'm not learning new things, I work as a full-stack software engineer and system administrator.",
-  avatarUrl: "/avatar.jpg",
+    "I am a professional with a diverse skill set, rooted in a foundation of political science, philosophy, economics, and now, psychology. My career thus far has spanned roles in open-source software engineering, system administration, complemented by a master's degree in international relations. With several years of experience managing projects and administering systems, I'm adept at navigating complex technical environments and delivering solutions that meet diverse needs. Currently training as a psychotherapist, I am keen on applying a huminst perspective to my technical work, aiming to improve our individual and collective relationships with emerging technologies. My goal is to leverage my background to address challenges at the intersection of technology, society, and individual well-being.",
   personalWebsiteUrl: "https://exocortex.sehn.dev",
   contact: {
-    email: "hello@linozen.com",
+    email: "hi@sehn.dev",
     tel: "+49 176 00000000",
     social: [
       {
